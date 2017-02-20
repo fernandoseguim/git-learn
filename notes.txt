@@ -1,0 +1,3 @@
+when a file be modify, it will under the layer "changes not staged for commit" -  mean that the file was modified on work directory, but yet don't was staged
+
+The command "git diff" show in more details that was modified. Show the exact lines that was modified, different from the command "git status" that show the modifieds in short
